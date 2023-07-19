@@ -42,11 +42,20 @@ int posMaximoVector(int vec[], int tam){  /// RETORNA LA POS QUE TIENE EL VALOR 
     int maximo = vec[0];
     int posmax;
     for(int i=0;i<tam;i++){
-        if(vec[i]>maximo)
+        if(vec[i]>maximo){
             maximo = vec[i];
             posmax = i+1;
+        }
     }
     return posmax;
+}
+
+int ponerCeroMatriz(int mat[][2], int filas,int columnas){
+    for(int i=0; i<filas; i++){
+        for(int x=0; x<filas; x++){
+            mat[filas][columnas] = 0;
+        }
+    }
 }
 
 /// PROBLEMA 2:
@@ -65,6 +74,8 @@ void problema2(){
 
     /// punto3:
     int vecComprasProv[100][2];
+    ponerCeroMatriz(vecComprasProv,100,2);
+
 
 
     cout << "Ingrese el codigo de PROYECTO: " << endl;
@@ -84,6 +95,13 @@ void problema2(){
         cout << "Importe de la compra: " << endl;
         cin >> importeCompra;
         vecGastosPorDia[diaCompra-1]+=importeCompra; /// PUNTO 2
+
+        if(tipoArticulo == 'M'){
+            vecComprasProv[codigoProyecto-100][0] += importeCompra;
+        }
+        else{
+            vecComprasProv[codigoProyecto-100][1] += importeCompra;
+        }
         cout << "------------------------------" << endl;
         cout << "Datos ingresados correctamente" << endl;
         cout << "------------------------------" << endl;
@@ -103,14 +121,19 @@ void problema2(){
 
     cout << "PUNTO 2: " << endl;
     cout << "vector gastos por dia post carga de datos: " << endl;
-    mostrarVector(vecGastosPorDia, 31);
+    mostrarVector(vecGastosPorDia,31);
 
     //PTO 2:
     int diaMaxGasto;
     diaMaxGasto = posMaximoVector(vecGastosPorDia,31);
     cout << "El dia de Octubre en el que mas se gasto fue el dia: " << diaMaxGasto << endl;
 
-
+    // PTO 3:
+    for(int i=0; i<100; i++){
+        cout << "Proyecto: " << i+100 << endl;
+        cout << "Materiales de construccion: " << vecComprasProv[i][0] << endl;
+        cout << "Pinturas: " << vecComprasProv[i][1] << endl;
+    }
 }
 
 
