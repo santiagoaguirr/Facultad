@@ -7,6 +7,16 @@ int posMaximoVector(int vec[], int tam);
 void problema2();
 
 /*
+C) Por cada proyecto, el porcentaje de compras realizadas discriminadas por tipo de
+artículo.
+
+Ejemplo:
+Proyecto XX
+Materiales de construcción: XX %
+Pinturas: XX %
+*/
+
+/*
 void esVectorVeleziano(int vec[], int tam){
     int contParejas=0;
     int bandera=1;
@@ -52,8 +62,16 @@ int posMaximoVector(int vec[], int tam){  /// RETORNA LA POS QUE TIENE EL VALOR 
 
 int ponerCeroMatriz(int mat[][2], int filas,int columnas){
     for(int i=0; i<filas; i++){
-        for(int x=0; x<filas; x++){
-            mat[filas][columnas] = 0;
+        for(int x=0; x<columnas; x++){
+            mat[i][x] = 0;
+        }
+    }
+}
+
+void mostrarMatriz(int mat[][2], int filas, int columnas){
+    for(int i=0; i<filas; i++){
+        for(int x=0; x<columnas; x++){
+            cout << mat[i][x] << " - ";
         }
     }
 }
@@ -96,7 +114,7 @@ void problema2(){
         cin >> importeCompra;
         vecGastosPorDia[diaCompra-1]+=importeCompra; /// PUNTO 2
 
-        if(tipoArticulo == 'M'){
+        if(tipoArticulo == 'M'){    /// PUNTO 3
             vecComprasProv[codigoProyecto-100][0] += importeCompra;
         }
         else{
@@ -112,6 +130,7 @@ void problema2(){
 
     }
     //PTO 1:
+    cout << "PUNTO 1: " << endl;
     cout << "Proveedores a los que nunca se les compro pintura: " << endl;
     for(int i=0; i<10; i++){
         if(vecProvNoPintura[i] == 0){
@@ -120,19 +139,18 @@ void problema2(){
     }
 
     cout << "PUNTO 2: " << endl;
-    cout << "vector gastos por dia post carga de datos: " << endl;
-    mostrarVector(vecGastosPorDia,31);
-
     //PTO 2:
     int diaMaxGasto;
     diaMaxGasto = posMaximoVector(vecGastosPorDia,31);
     cout << "El dia de Octubre en el que mas se gasto fue el dia: " << diaMaxGasto << endl;
 
     // PTO 3:
+    cout << "PUNTO 3: " << endl;
     for(int i=0; i<100; i++){
         cout << "Proyecto: " << i+100 << endl;
         cout << "Materiales de construccion: " << vecComprasProv[i][0] << endl;
         cout << "Pinturas: " << vecComprasProv[i][1] << endl;
+        cout << endl;
     }
 }
 
