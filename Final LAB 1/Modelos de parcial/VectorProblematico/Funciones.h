@@ -1,5 +1,6 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
+#include <string>
 
 int sumarElemVec(int vec[], int tam);
 bool esVectorProblematico(int vec[], int tam);
@@ -31,3 +32,77 @@ int sumarElemVec(int vec[], int tam){
     return suma;
 }
 #endif // FUNCIONES_H_INCLUDED
+
+void ponerCeroMatriz(int mat[][10], int filas, int columnas){
+    for(int i=0; i<filas; i++){
+        for(int x=0; x<columnas; x++){
+            mat[i][x] = 0;
+        }
+    }
+}
+
+void Problema2(){
+
+    int codigoExcavacion, nroFosilDinosaurio, nivelConservacion, completo;
+
+    cout << "Ingrese codigo de excavacion: " << endl;
+    cin >> codigoExcavacion;
+    /// PUNTO1:
+    string nombreDinosaurios[15] = {"Tyrannosaurus rex"
+,"Velociraptor"
+,"Stegosaurus"
+,"Triceratops"
+,"Brachiosaurus"
+,"Diplodocus"
+,"Ankylosaurus"
+,"Allosaurus"
+,"Pterodactylus"
+,"Parasaurolopus"
+,"Spinosaurus"
+,"Gallimimus"
+,"Archaeoptery"
+,"Iguanodon"
+,"Compsognathus"};
+    int matEstadosDino[15][10];
+
+
+    while(codigoExcavacion!=0){
+        cout << "Numero de fosil: " << endl;
+        cin >> nroFosilDinosaurio;
+        cout << "Nivel de conservacion: (0 a 10) " << endl;
+        cin >> nivelConservacion;
+        cout << "¿Se encuentra completo?(1-Completo, 0-Incompleto)" << endl;
+        cin >> completo;
+        cout << "------------------------------"<< endl;
+        cout << "Datos ingresados correctamente" << endl;
+        cout << "------------------------------"<< endl;
+        system("pause");
+        system("cls");
+        cout << "Ingrese codigo de excavacion: " << endl;
+        cin >> codigoExcavacion;
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
