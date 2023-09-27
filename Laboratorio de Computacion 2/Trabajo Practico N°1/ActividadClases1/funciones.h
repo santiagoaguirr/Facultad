@@ -1,15 +1,7 @@
 #ifndef FUNCIONES_H_INCLUDED
 #define FUNCIONES_H_INCLUDED
 
-/*Actividad 1
-
-Realizar la declaración de la clase en un archivo H y la definición de los métodos en un archivo CPP. La clase fecha debe
-almacenar los siguientes atributos enteros: _dia, _mes y _anio.
-*/
-
-//Actividad 2
-//Realizar métodos getters para cada una de las propiedades mencionadas anteriormente.
-
+bool esBisiesto(int anio);
 
 class Fecha{
     private:
@@ -18,6 +10,8 @@ class Fecha{
         int getDia();
         int getMes();
         int getAnio();
+        void AgregarDia();
+        void RestarDia();
         Fecha();
         Fecha(int dia, int mes, int anio);
 };

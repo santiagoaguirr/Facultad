@@ -5,15 +5,13 @@ using namespace std;
 
 int main()
 {
-    Fecha fecha1;
-    fecha1.getDia();
-    fecha1.getMes();
-    fecha1.getAnio();
-
-    Fecha fecha2(1,2,2027);
-    fecha2.getDia();
-    fecha2.getMes();
-    fecha2.getAnio();
-
+    Fecha f(1,3,2023);
+    f.getDia();
+    f.getMes();
+    f.getAnio();
+    f.RestarDia();
+    f.getDia();
+    f.getMes();
+    f.getAnio();
     return 0;
 }
