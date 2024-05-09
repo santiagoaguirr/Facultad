@@ -1,0 +1,11 @@
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\bin\Debug\PrimerProyectoWinform.exe.config
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\bin\Debug\PrimerProyectoWinform.exe
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\bin\Debug\PrimerProyectoWinform.pdb
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.csproj.AssemblyReference.cache
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.Form1.resources
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.Properties.Resources.resources
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.csproj.GenerateResource.cache
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.exe
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.pdb
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PrimeraSolucionWinform\PrimerProyectoWinform\obj\Debug\PrimerProyectoWinform.FrmPrincipal.resources
