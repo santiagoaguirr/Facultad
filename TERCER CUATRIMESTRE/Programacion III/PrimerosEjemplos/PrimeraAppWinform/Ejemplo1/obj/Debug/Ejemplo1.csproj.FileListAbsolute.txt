@@ -1,0 +1,10 @@
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\obj\Debug\Ejemplo1.pdb
+C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\PrimeraAppWinform\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
