@@ -15,10 +15,7 @@
     <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-scrollable modal-lg">
             <div class="modal-content">
-                <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="staticBackdropLabel">Producto</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
+
                 <div class="modal-body">
                     <div class="container text-center">
                         <div class="row">
@@ -26,13 +23,16 @@
                                 <div id="carouselExample" class="carousel slide" data-bs-theme="dark">
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="https://motorolaes.vtexassets.com/arquivos/ids/157376/Moto-G9-Power-pdp-kv-render-4-qnaeku0f.png?v=637401821122030000" class="d-block w-100" alt="...">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_629121-MLA72550682668_112023-F.webp" class="d-block w-100" alt="...">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="https://www.quuot.com.ar/596-large_default/celular-motorola-g9-plus-68-4128-64mp-azul.jpg" class="d-block w-100" alt="...">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_620045-MLU73365004860_122023-F.webp" class="d-block w-100" alt="...">
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="https://cdn.wamiz.fr/cdn-cgi/image/format=auto,quality=80,width=1200,height=900,fit=cover/article/main-picture/60f6d85b4d40c287613021.jpg" class="d-block w-100" alt="...">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_761558-MLA74805954919_022024-F.webp" class="d-block w-100" alt="...">
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_693262-MLU74856500739_032024-F.webp" class="d-block w-100" alt="...">
                                         </div>
                                     </div>
                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
@@ -46,11 +46,25 @@
                                 </div>
                             </div>
                             <div class="col">
-                                <div class="row">MARCA:</div>
-                                <div class="row">MODELO:</div>
-                                <div class="row">PRECIO:</div>
                                 <div class="row">
-                                    <p>This is some placeholder content to show the scrolling behavior for modals. Instead of repeating the text in the modal, we use an inline style to set a minimum height, thereby extending the length of the overall modal and demonstrating the overflow scrolling.</p>
+                                    <h3 class="text-start mb-3">Moto G14 Dual SIM 128 GB gris oscuro 4 GB RAM</h3>
+                                </div>
+                                <div class="row">
+                                    <h3 class="text-start mb-3">$233.451</h3>
+                                </div>
+                                <div class="row">
+                                    <p style="text-align: justify">
+                                        Doble cámara y más detalles
+Sus 2 cámaras traseras de 50 Mpx/2 Mpx te permitirán tomar imágenes con más detalles y lograr efectos únicos como el famoso modo retrato de poca profundidad de campo.
+
+Además, el dispositivo cuenta con cámara frontal de 8 Mpx para que puedas sacarte divertidas selfies o hacer videollamadas.
+
+Más para ver
+Con su pantalla IPS de 6.5", disfrutá de colores intensos y mayor nitidez en todos tus contenidos.
+
+Mayor rendimiento
+Su memoria RAM de 4 GB permite que tu smartphone funcione de manera fluida y sin demoras al realizar distintas tareas, jugar o navegar.
+                                    </p>
                                 </div>
                             </div>
                         </div>
