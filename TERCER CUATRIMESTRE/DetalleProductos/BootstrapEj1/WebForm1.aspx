@@ -15,7 +15,6 @@
     <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-scrollable modal-lg">
             <div class="modal-content">
-
                 <div class="modal-body">
                     <div class="container text-center">
                         <div class="row">
@@ -25,7 +24,7 @@
                                         <div class="carousel-item active">
                                             <img src="https://http2.mlstatic.com/D_NQ_NP_2X_629121-MLA72550682668_112023-F.webp" class="d-block w-100" alt="...">
                                         </div>
-                                        <div class="carousel-item">
+                                        <div class="carousel-item" >
                                             <img src="https://http2.mlstatic.com/D_NQ_NP_2X_620045-MLU73365004860_122023-F.webp" class="d-block w-100" alt="...">
                                         </div>
                                         <div class="carousel-item">
@@ -47,6 +46,7 @@
                             </div>
                             <div class="col">
                                 <div class="row">
+                                    <h6 class="text-start" style = "color: darkgrey; font-weight: normal" >Motorola</h6>
                                     <h3 class="text-start mb-3">Moto G14 Dual SIM 128 GB gris oscuro 4 GB RAM</h3>
                                 </div>
                                 <div class="row">
