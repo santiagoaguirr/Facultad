@@ -8,6 +8,10 @@ namespace Herencia
 {
     internal class Tester : Persona
     {
-
+        public string Cargo { get; set; }
+        public override string ToString()
+        {
+            return "Tester: " + Cargo; 
+        }
     }
 }

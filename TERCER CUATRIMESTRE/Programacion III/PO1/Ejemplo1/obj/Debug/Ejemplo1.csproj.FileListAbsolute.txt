@@ -1,0 +1,7 @@
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PO1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PO1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PO1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PO1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PO1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PO1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\PO1\Ejemplo1\obj\Debug\Ejemplo1.pdb

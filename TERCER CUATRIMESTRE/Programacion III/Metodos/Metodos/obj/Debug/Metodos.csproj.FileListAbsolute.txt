@@ -5,3 +5,10 @@ C:\Users\SAGUIRRE\Desktop\Programacion III\Metodos\Metodos\obj\Debug\Metodos.csp
 C:\Users\SAGUIRRE\Desktop\Programacion III\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
 C:\Users\SAGUIRRE\Desktop\Programacion III\Metodos\Metodos\obj\Debug\Metodos.exe
 C:\Users\SAGUIRRE\Desktop\Programacion III\Metodos\Metodos\obj\Debug\Metodos.pdb
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\Metodos\Metodos\bin\Debug\Metodos.exe.config
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\Metodos\Metodos\bin\Debug\Metodos.exe
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\Metodos\Metodos\bin\Debug\Metodos.pdb
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\Metodos\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\Metodos\Metodos\obj\Debug\Metodos.exe
+C:\Users\Santi\Documents\GitHub\Facultad\TERCER CUATRIMESTRE\Programacion III\Metodos\Metodos\obj\Debug\Metodos.pdb

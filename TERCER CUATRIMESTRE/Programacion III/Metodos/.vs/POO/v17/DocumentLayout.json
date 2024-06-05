@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\",
+  "WorkspaceRootPath": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\herencia\\analistafuncional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\analistafuncional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\herencia\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\herencia\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\herencia\\lider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\lider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\herencia\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\herencia\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\herencia\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\metodos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\metodos\\herencia\\analistafuncional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\analistafuncional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\herencia\\lider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\lider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\herencia\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082ECA61-1B44-4386-8E61-86E2748F176D}|Herencia\\Herencia.csproj|solutionrelative:herencia\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\metodos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|solutionrelative:metodos\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|solutionrelative:metodos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|c:\\users\\saguirre\\desktop\\programacion iii\\metodos\\metodos\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\metodos\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E973B20-525E-4B0D-88E5-6296C3F2E619}|Metodos\\Metodos.csproj|solutionrelative:metodos\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,15 +46,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AnalistaFuncional.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\AnalistaFuncional.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\AnalistaFuncional.cs",
               "RelativeDocumentMoniker": "Herencia\\AnalistaFuncional.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\AnalistaFuncional.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\AnalistaFuncional.cs",
               "RelativeToolTip": "Herencia\\AnalistaFuncional.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,52 +71,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Persona.cs",
               "RelativeDocumentMoniker": "Herencia\\Persona.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Persona.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Persona.cs",
               "RelativeToolTip": "Herencia\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T17:31:17.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Developer.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Developer.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Developer.cs",
               "RelativeDocumentMoniker": "Herencia\\Developer.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Developer.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Developer.cs",
               "RelativeToolTip": "Herencia\\Developer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T17:27:20.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T17:27:20.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Lider.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Lider.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Lider.cs",
               "RelativeDocumentMoniker": "Herencia\\Lider.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Lider.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Lider.cs",
               "RelativeToolTip": "Herencia\\Lider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T17:27:12.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T17:27:12.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Tester.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Tester.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Tester.cs",
               "RelativeDocumentMoniker": "Herencia\\Tester.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Tester.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Tester.cs",
               "RelativeToolTip": "Herencia\\Tester.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T17:27:04.956Z",
               "EditorCaption": ""
@@ -117,11 +123,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Program.cs",
               "RelativeDocumentMoniker": "Herencia\\Program.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Herencia\\Program.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Herencia\\Program.cs",
               "RelativeToolTip": "Herencia\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T17:22:25.686Z",
               "EditorCaption": ""
@@ -130,40 +136,37 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Metodos\\Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Metodos\\Animal.cs",
               "RelativeDocumentMoniker": "Metodos\\Animal.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Metodos\\Animal.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Metodos\\Animal.cs",
               "RelativeToolTip": "Metodos\\Animal.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAqwAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:17:26.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:17:26.467Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Metodos\\Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Metodos\\Persona.cs",
               "RelativeDocumentMoniker": "Metodos\\Persona.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Metodos\\Persona.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Metodos\\Persona.cs",
               "RelativeToolTip": "Metodos\\Persona.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:14:49.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:14:49.753Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Metodos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Metodos\\Program.cs",
               "RelativeDocumentMoniker": "Metodos\\Program.cs",
-              "ToolTip": "C:\\Users\\SAGUIRRE\\Desktop\\Programacion III\\Metodos\\Metodos\\Program.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\Metodos\\Metodos\\Program.cs",
               "RelativeToolTip": "Metodos\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T13:10:41.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T13:10:41.114Z"
             }
           ]
         }
