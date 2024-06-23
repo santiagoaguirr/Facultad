@@ -1,7 +1,0 @@
-C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\LaSintaxis\Ejemlo1\bin\Debug\Ejemlo1.exe.config
-C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\LaSintaxis\Ejemlo1\bin\Debug\Ejemlo1.exe
-C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\LaSintaxis\Ejemlo1\bin\Debug\Ejemlo1.pdb
-C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\LaSintaxis\Ejemlo1\obj\Debug\Ejemlo1.csproj.AssemblyReference.cache
-C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\LaSintaxis\Ejemlo1\obj\Debug\Ejemlo1.csproj.CoreCompileInputs.cache
-C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\LaSintaxis\Ejemlo1\obj\Debug\Ejemlo1.exe
-C:\Users\SAGUIRRE\Desktop\Programacion III\PrimerosEjemplos\LaSintaxis\Ejemlo1\obj\Debug\Ejemlo1.pdb

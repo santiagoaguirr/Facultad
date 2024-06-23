@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\webapplication1\\webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{73B4BDD9-FA8E-460F-A8A6-28A7A059B90D}|WebApplication1\\WebApplication1.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\webapplication1\\webapplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B4BDD9-FA8E-460F-A8A6-28A7A059B90D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\webapplication1\\webapplication1\\ejemploconmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ejemploconmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\webapplication1\\webapplication1\\mimasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\mimasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\webapplication1\\webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\webapplication1\\webapplication1\\ejemploconmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3481EF9-C8CE-4C9D-9F32-43269CE8BDF1}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ejemploconmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73B4BDD9-FA8E-460F-A8A6-28A7A059B90D}|WebApplication1\\WebApplication1.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\webapplication1\\webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{73B4BDD9-FA8E-460F-A8A6-28A7A059B90D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ejemploConMaster.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\ejemploConMaster.aspx.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ejemploConMaster.aspx.cs",
-              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\ejemploConMaster.aspx.cs",
-              "RelativeToolTip": "WebApplication1\\ejemploConMaster.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\Default.aspx.cs*",
+              "RelativeToolTip": "WebApplication1\\Default.aspx.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAywBYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T18:47:53.619Z",
+              "WhenOpened": "2024-06-13T03:40:41.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ejemploConMaster.aspx",
-              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\ejemploConMaster.aspx",
-              "RelativeDocumentMoniker": "WebApplication1\\ejemploConMaster.aspx",
-              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\ejemploConMaster.aspx",
-              "RelativeToolTip": "WebApplication1\\ejemploConMaster.aspx",
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\Default.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\Default.aspx",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\Default.aspx*",
+              "RelativeToolTip": "WebApplication1\\Default.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-11T18:47:04.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MiMasterPage.Master",
-              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\MiMasterPage.Master",
-              "RelativeDocumentMoniker": "WebApplication1\\MiMasterPage.Master",
-              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\MiMasterPage.Master",
-              "RelativeToolTip": "WebApplication1\\MiMasterPage.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-11T18:35:53.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "WebApplication1\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T16:35:34.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\Site.Master",
-              "RelativeDocumentMoniker": "WebApplication1\\Site.Master",
-              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\WebApplication1\\WebApplication1\\Site.Master",
-              "RelativeToolTip": "WebApplication1\\Site.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-11T16:29:01.725Z",
+              "WhenOpened": "2024-06-13T03:39:21.526Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\ejemplos-webforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{921E8347-5905-47B2-A903-C41F5B17999C}|acceso-datos\\acceso-datos.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\ejemplos-webforms\\acceso-datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E8347-5905-47B2-A903-C41F5B17999C}|acceso-datos\\acceso-datos.csproj|solutionrelative:acceso-datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AD9B94-82D8-46FB-8BE3-8B31A63D6A11}|negocio\\negocio.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\ejemplos-webforms\\negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AD9B94-82D8-46FB-8BE3-8B31A63D6A11}|negocio\\negocio.csproj|solutionrelative:negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F0F13E-FFE8-41E3-BED2-6C2A991A5488}|dominio\\dominio.csproj|c:\\users\\santi\\documents\\github\\facultad\\tercer cuatrimestre\\programacion iii\\ejemplos-webforms\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F0F13E-FFE8-41E3-BED2-6C2A991A5488}|dominio\\dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\ejemplos-webforms\\acceso-datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "acceso-datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\ejemplos-webforms\\acceso-datos\\AccesoDatos.cs",
+              "RelativeToolTip": "acceso-datos\\AccesoDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T23:13:05.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\ejemplos-webforms\\negocio\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\UsuarioNegocio.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\ejemplos-webforms\\negocio\\UsuarioNegocio.cs",
+              "RelativeToolTip": "negocio\\UsuarioNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:06:50.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\ejemplos-webforms\\dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Santi\\Documents\\GitHub\\Facultad\\TERCER CUATRIMESTRE\\Programacion III\\ejemplos-webforms\\dominio\\Usuario.cs",
+              "RelativeToolTip": "dominio\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T22:46:48.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
